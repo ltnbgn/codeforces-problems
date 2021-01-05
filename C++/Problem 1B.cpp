@@ -4,5 +4,5 @@
 using namespace std;
 
 int main() {
-    int asd = 0;
+    int asd = 01;
 }
