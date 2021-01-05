@@ -3,7 +3,7 @@
 int main() {
     int 
         total_chocolate,
-        consume_time[100001],
+        consume_time[100002],
         alice_index = 0,
         alice_points = 0,
         bob_index = 0,
